@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FinTrack.Api.Services.Implementations.BudgetService">
+    <Position X="6.75" Y="1.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAEEAAEAAAAAAAAAEIAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Services\Implementations\BudgetService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FinTrack.Api.Services.Implementations.CurrencyService">
+    <Position X="1.75" Y="6" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAABAAIAAAAAAAgAgAAAAAAAA=</HashCode>
+      <FileName>Services\Implementations\CurrencyService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FinTrack.Api.Services.Implementations.ExpenseCategoryService">
+    <Position X="3.75" Y="2" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AIAAEAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\Implementations\ExpenseCategoryService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FinTrack.Api.Services.Implementations.ExpenseService">
+    <Position X="1.75" Y="1" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>CAAAIAAAAAAAAAAAAIAAAAAAAAAAAAAAIAAAAAAAgAA=</HashCode>
+      <FileName>Services\Implementations\ExpenseService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FinTrack.Api.Services.Implementations.IncomeCategoryService">
+    <Position X="1.25" Y="3.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAACAIAAAAAAAA=</HashCode>
+      <FileName>Services\Implementations\IncomeCategoryService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FinTrack.Api.Services.Implementations.IncomeService">
+    <Position X="7" Y="4.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAQAAAEAAAAIAAAAAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\Implementations\IncomeService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FinTrack.Api.Services.Implementations.UserService">
+    <Position X="4.5" Y="4.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAoAAAAAAAAAAgAAAYAAAAAAAAAAAAAQAAQAAA=</HashCode>
+      <FileName>Services\Implementations\UserService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FinTrack.Api.Controllers.BudgetController">
+    <Position X="9" Y="7.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABABAAAAAAIACAAAAEAAAAAAg=</HashCode>
+      <FileName>Controllers\BudgetController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinTrack.Api.Controllers.CurrencyController">
+    <Position X="5" Y="7.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQABAAAAAAAAIAAAgAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\CurrencyController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinTrack.Api.Controllers.ExpenseCategoryController">
+    <Position X="2.75" Y="10.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAABAAAAAAAAAAAAAIAEAAAAAEA=</HashCode>
+      <FileName>Controllers\ExpenseCategoryController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinTrack.Api.Controllers.ExpenseController">
+    <Position X="5.25" Y="10.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACEAAAQABAAAIAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Controllers\ExpenseController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinTrack.Api.Controllers.IncomeCategoryController">
+    <Position X="7.5" Y="11" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAABAAAAAQBAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Controllers\IncomeCategoryController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinTrack.Api.Controllers.IncomeController">
+    <Position X="10" Y="11" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABBAAAAAAAAACAAAAIAAAAABg=</HashCode>
+      <FileName>Controllers\IncomeController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinTrack.Api.Controllers.UserController">
+    <Position X="12.25" Y="11" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAABAAAAAAAAAAAAAAAEAAAAAAE=</HashCode>
+      <FileName>Controllers\UserController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
