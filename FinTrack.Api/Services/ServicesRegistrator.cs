@@ -15,6 +15,7 @@ namespace FinTrack.Api.Services
             .AddTransient<IIncomeService, IncomeService>()
             .AddTransient<IUserService, UserService>()
             .AddTransient<IAnalysisService, AnalysisService>()
+            .AddTransient<IGoalAnalysisService, GoalAnalysisService>()
             ;
     }
 }

@@ -56,6 +56,8 @@ using (var scope = app.Services.CreateScope())
 {
     var dbContext = scope.ServiceProvider.GetRequiredService<FinTrackDbContext>();
     await SeedData.EnsureSeededAsync(dbContext);
+    await BigSeedData.EnsureSeededAsync(dbContext);
+
 }
 
 app.Run();
