@@ -1,4 +1,5 @@
-﻿using FinTrack.Api.Services.Implementations;
+﻿using FinTrack.Api.Interfaces;
+using FinTrack.Api.Services.Implementations;
 using FinTrack.Api.Services.Interfaces;
 
 namespace FinTrack.Api.Services
@@ -13,6 +14,7 @@ namespace FinTrack.Api.Services
             .AddTransient<IExpenseService, ExpenseService>()
             .AddTransient<IIncomeService, IncomeService>()
             .AddTransient<IUserService, UserService>()
+            .AddTransient<IAnalysisService, AnalysisService>()
             ;
     }
 }
